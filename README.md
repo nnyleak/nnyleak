@@ -1,9 +1,13 @@
-# hi! welcome to my github :)
-My name is Kaelynn Amodia, and I am a game designer and web developer. I recently graduated from RIT! Here you can find some of my projects and repos that I have contributed to over the years. Feel free to look around! ⁽˙³˙⁾
+# hi, welcome to my github :)
+
+i’m kaelynn amodia — a game designer and web developer. i recently graduated from rit!  
+here you’ll find projects i’ve built and repos i’ve contributed to over the years.  
+feel free to look around and stay a while ⁽˙³˙⁾
 
 ### quick links
-- [portfolio](nnyleak.netlify.app)
-- [linkedin](https://www.linkedin.com/in/nnyleak/)
+- [portfolio](https://nnyleak.netlify.app)  
+- [linkedin](https://www.linkedin.com/in/nnyleak/)  
+
 
 <!--
 **nnyleak/nnyleak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
